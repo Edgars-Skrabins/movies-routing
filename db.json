@@ -1,0 +1,130 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Inception",
+      "release_date": "2010-07-16",
+      "director": "Christopher Nolan",
+      "comments": [
+        "Wow this movie is so good",
+        "Wtf? Didn't understand anything",
+        "Mind-bending masterpiece!",
+        "Best movie ever!",
+        "I need to watch it again!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Shawshank Redemption",
+      "release_date": "1994-09-23",
+      "director": "Frank Darabont",
+      "comments": [
+        "Classic!",
+        "Redemption at its finest.",
+        "Tim Robbins nailed it.",
+        "One of the greatest films."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Dark Knight",
+      "release_date": "2008-07-18",
+      "director": "Christopher Nolan",
+      "comments": [
+        "Heath Ledger's Joker is iconic!",
+        "Epic action scenes.",
+        "Nolan's brilliance shines.",
+        "Why so serious?"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pulp Fiction",
+      "release_date": "1994-10-14",
+      "director": "Quentin Tarantino",
+      "comments": [
+        "Quentin Tarantino's masterpiece!",
+        "Unforgettable characters.",
+        "Say 'What' again!",
+        "Ezekiel 25:17."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Forrest Gump",
+      "release_date": "1994-07-06",
+      "director": "Robert Zemeckis",
+      "comments": [
+        "Run, Forrest, run!",
+        "Life is like a box of chocolates.",
+        "Tom Hanks is a legend."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Matrix",
+      "release_date": "1999-03-31",
+      "director": "Lana and Lilly Wachowski",
+      "comments": [
+        "Red pill or blue pill?",
+        "Bullet time blew my mind!",
+        "Neo is 'The One'."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Interstellar",
+      "release_date": "2014-11-07",
+      "director": "Christopher Nolan",
+      "comments": [
+        "Space, time, and emotions.",
+        "Hans Zimmer's score is phenomenal.",
+        "Love transcends dimensions."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Schindler's List",
+      "release_date": "1993-11-30",
+      "director": "Steven Spielberg",
+      "comments": [
+        "Powerful and heartbreaking.",
+        "Oscar-worthy performances.",
+        "Spielberg's magnum opus."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fight Club",
+      "release_date": "1999-10-15",
+      "director": "David Fincher",
+      "comments": [
+        "First rule of Fight Club...",
+        "Mind-bending twist!",
+        "Edward Norton is brilliant."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "The Godfather",
+      "release_date": "1972-03-24",
+      "director": "Francis Ford Coppola",
+      "comments": [
+        "An offer you can't refuse.",
+        "Marlon Brando's iconic performance.",
+        "Classic mafia masterpiece."
+      ]
+    },
+    {
+      "id": 0.41493733115511944,
+      "name": "Smagas dienas",
+      "release_date": "2023-11-02",
+      "director": "Jānis Seržants",
+      "comments": [
+        "Unique and intriguing.",
+        "Latvian cinema at its best.",
+        "Looking forward to more from Jānis Seržants."
+      ]
+    }
+  ]
+}
