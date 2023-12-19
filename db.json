@@ -22,7 +22,8 @@
         "Classic!",
         "Redemption at its finest.",
         "Tim Robbins nailed it.",
-        "One of the greatest films."
+        "One of the greatest films.",
+        "What the hell?"
       ]
     },
     {
@@ -116,14 +117,12 @@
       ]
     },
     {
-      "id": 0.41493733115511944,
-      "name": "Smagas dienas",
-      "release_date": "2023-11-02",
-      "director": "Jānis Seržants",
+      "id": 0.5437147677757364,
+      "name": "Breaking good",
+      "release_date": "2023-11-04",
+      "director": "Kristians Tavars",
       "comments": [
-        "Unique and intriguing.",
-        "Latvian cinema at its best.",
-        "Looking forward to more from Jānis Seržants."
+        "Very bad"
       ]
     }
   ]
